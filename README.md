@@ -8,6 +8,7 @@
                     IntelliJ Idea 다운 
                    (Ultimate 유료버전과 Community Edition 무료버전이 있다)
 - C/C++ 언어 프로그래밍 - Visualstudio code 와 다른 Visual Studio 2022 다운 받아서 쓴다.
+                        (https://visualstudio.microsoft.com/ko/vs/)
 
 ■
 
