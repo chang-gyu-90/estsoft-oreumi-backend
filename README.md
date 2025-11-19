@@ -4,7 +4,8 @@
 
 ■ 프로그램 설정 및 설치 방법
 
-□ HTML/CSS - (https://code.visualstudio.com/) → Visual Studio Code 설치
+□ HTML/CSS 
+- (https://code.visualstudio.com/) → Visual Studio Code 설치
 
 □ Java 프로그래밍 - (https://www.jetbrains.com/ko-kr/) → (https://www.jetbrains.com/ko-kr/idea/download/)
 - IntelliJ Idea 다운 
