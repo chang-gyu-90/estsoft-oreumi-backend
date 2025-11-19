@@ -7,7 +7,8 @@
 □ HTML/CSS 
 - (https://code.visualstudio.com/) → Visual Studio Code 설치
 
-□ Java 프로그래밍 - (https://www.jetbrains.com/ko-kr/) → (https://www.jetbrains.com/ko-kr/idea/download/)
+□ Java 프로그래밍 
+- (https://www.jetbrains.com/ko-kr/) → (https://www.jetbrains.com/ko-kr/idea/download/)
 - IntelliJ Idea 다운 
 - (Ultimate 유료버전과 Community Edition 무료버전이 있다)
 
