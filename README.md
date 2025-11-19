@@ -10,6 +10,10 @@
 - C/C++ 언어 프로그래밍 - Visualstudio code 와 다른 Visual Studio 2022 다운 받아서 쓴다.
                        - (https://visualstudio.microsoft.com/ko/vs/)
 
-■
+■ 프로그램 사용법과 실행 결과에 대한 예제
+
+■ 프로젝트의 라이센스
+
+■ 기여하는 방법
 
 
