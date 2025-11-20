@@ -28,6 +28,7 @@
 
 HTML 문서는 항상 아래 구조로 작성해야 한다.
 
+`
 <!DOCTYPE html>
 <html>
     <head>
@@ -38,3 +39,4 @@ HTML 문서는 항상 아래 구조로 작성해야 한다.
         
     </body>
 </html>
+`
