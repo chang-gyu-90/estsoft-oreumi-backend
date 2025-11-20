@@ -31,4 +31,15 @@
 
 HTML 문서는 항상 아래 구조로 작성해야 한다.
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta cjarset="UTF-8">
+        <title>TITLE</title>
+    </head>
+    <body>
+        
+    </body>
+</html>
+
 
