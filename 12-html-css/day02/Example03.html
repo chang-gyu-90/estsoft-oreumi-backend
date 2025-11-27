@@ -3,6 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
+    <style>
+
+
+        /*  .bg-gray 요소들에 배경색을 지정 */
+
+        .bg-gray {
+            background-color: darkgray;
+        }
+
+    </style>
 </head>
 <body>
     
@@ -10,15 +20,17 @@
 
     <table border="1">
         <thead>
-            <th>이름</th>
-            <th>HTML</th>
-            <th>CSS</th>
-            <th>Javascript</th>
-            <th>JQuery</th>
+            <tr>
+                <th>이름</th>
+                <th>HTML</th>
+                <th>CSS</th>
+                <th>Javascript</th>
+                <th>JQuery</th>
+            </tr>
         </thead>
     <tbody>
         <tr>
-            <td>김철수</td>
+            <td class="bg-gray">김철수</td>
             <td>A</td>
             <td>B</td>
             <td>C</td>
@@ -32,8 +44,8 @@
             <td>A</td>
         </tr>
         <tr>
-            <td>홍길동</td>
-            <td>C</td>
+            <td class="bg-gray">홍길동</td>
+            <td>C</td> 
             <td>D</td>
             <td>A</td>
             <td>B</td>
