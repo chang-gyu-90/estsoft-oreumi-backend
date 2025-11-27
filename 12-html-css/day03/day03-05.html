@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="reset.css">
+    <style>
+
+        #profile {
+            background-color: gray;
+            width: 400px;
+            padding: 30px;
+
+            /*
+             * HTML 요소의 너비를 설정해서 컨테이닝 블록의 너비보다 작아진 경우, 
+             * HTML 요소를 컨테이닝 블록의 가운데에 배치하기 위해 HTML 요소의 왼쪽과
+             * 오른쪽에 외부 여백을 같은 값으로 설정한다.            
+             */
+             margin: 0 auto;
+        }
+
+        #profile > img {
+            width: 100%;
+            border-radius: 30%;
+        }
+
+    </style>
+
+</head>
+<body class="dark">
+
+    <div id="profile">
+        <img src="../image/image-04.jpg" alt="분노 고양이">
+    </div>
+
+    
+</body>
+</html>
